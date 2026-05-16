@@ -37,7 +37,7 @@ export class RegistrationPage extends BasePage {
   constructor(page: Page) {
     super(page);
 
-    this.pageHeading         = page.locator('.login-form h2.title b');
+    this.pageHeading         = page.locator('.login-form h2.title b').first();
     this.titleMrRadio        = page.locator('#id_gender1');
     this.passwordInput       = page.locator('[data-qa="password"]');
     this.firstNameInput      = page.locator('[data-qa="first_name"]');
