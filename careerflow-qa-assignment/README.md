@@ -1,6 +1,6 @@
 # Careerflow.ai — QA Engineer Technical Assignment
 
-> Submitted by: [Your Name]  
+> Submitted by: Nancy Agrawal
 > Role: AI-Augmented QA Engineer  
 > Date: May 2025
 
@@ -127,7 +127,7 @@ Tests run automatically on every push to `main` or `develop`, and on every pull 
 
 ---
 
-## Task 2 — Test Scenario Design: AI Mock Interview Platform
+## Task 2 — Test Scenario Design: AI Mock Interview Platform [Will be in the pdf that is attched in the mail itself]
 
 The full test plan is in **[docs/test-plan.md](./docs/test-plan.md)**.
 
@@ -152,6 +152,4 @@ Full reflection is in **[docs/ai-tools-usage.md](./docs/ai-tools-usage.md)**.
 
 ---
 
-## Contact
 
-Questions about this submission? Reach out at: [your.email@example.com]
